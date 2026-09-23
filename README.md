@@ -12,9 +12,14 @@ Aplicar el concepto de Árbol Binario de Búsqueda  y su estructura lógica de p
 
 ## Capturas de Pantalla
 
-![Insertar Producto](image/Imagen1.png)
-![Buscar Producto](image/Imagen2.png)
-![Mostrar Inventario](image/Imagen3.png)
+**1. Menú Principal e Inserción de Productos**
+![Insertar Producto](Image/Imagen1.png)
+
+**2. Búsqueda de Productos**
+![Buscar Producto](Image/Imagen2.png)
+
+**3. Recorrido Inorden (Inventario Ordenado)**
+![Mostrar Inventario](Image/Imagen3.png)
 
 ## Video de Sustentación
 [Video Explicación] (https://drive.google.com/file/d/1k2MEDTP5AmDzpu8XXrgH4KTwy1uS2qty/view?usp=sharing)
