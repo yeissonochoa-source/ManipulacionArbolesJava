@@ -22,5 +22,5 @@ Aplicar el concepto de Árbol Binario de Búsqueda  y su estructura lógica de p
 ![Mostrar Inventario](image/iamgen3.png)
 
 ## Video de Sustentación
-**Enlace al video:** [Pegar_Enlace_Aquí]
+**Enlace al video:** [(https://drive.google.com/file/d/1k2MEDTP5AmDzpu8XXrgH4KTwy1uS2qty/view?usp=sharing)]
 
